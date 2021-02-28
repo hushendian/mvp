@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hushendian.mvp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hushendian.mvp.MyBundle
 
 class MyApplicationService {
 
